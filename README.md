@@ -1,5 +1,5 @@
 # Reinforcement_Learning_vs_dijsktra-s_algorithm
-# Reference and credit:https://www.viralml.com/video-content.html?v=nSxaG_Kjw_w & http://benalexkeen.com/implementing-djikstras-shortest-path-algorithm-with-python/
+###### Reference and credit:https://www.viralml.com/video-content.html?v=nSxaG_Kjw_w & http://benalexkeen.com/implementing-djikstras-shortest-path-algorithm-with-python/
 A HelloWorld problem to Reinforcement 
 
 I have worked with this project just to learn how reinforcement learning works.
