@@ -10,4 +10,4 @@ You can run the Jupyter Notebook provided, it contains the exact details require
 
 Specially required libraries are:
 
-1. Networkx - a python library to visualise and draw graphs easily
+* Networkx - a python library to visualise and draw graphs easily
