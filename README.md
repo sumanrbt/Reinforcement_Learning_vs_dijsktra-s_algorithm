@@ -11,3 +11,7 @@ You can run the Jupyter Notebook provided, it contains the exact details require
 Specially required libraries are:
 
 * Networkx - a python library to visualise and draw graphs easily
+
+Note that you can play around with the two algorithms and see that Dijkstras algorithm is still the best for thii simple problem in the code, in the example given in the Notebook, try finsind the shortest path from (say 7 to 5), you will observe that the Dijkstras algorithm gives you the right solution but the reinforcement learning ,ethod does not converge.
+There may be ways to get the job done, but at the moment this problem has to be takn as an introduction to Qlearning.
+
